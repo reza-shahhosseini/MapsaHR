@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkbPYmUhF2EIKcVIuwnKTNChYDJWz7jpdR4KQ3WYbNdVxj/f2uLRmk3J39O5zT6CTSkMw2nWAa7qmcX+R187KA==",
+  "success": true,
+  "projectFilePath": "F:\\dev\\MapsaHR\\RandomGame_V1\\RandomGame_V1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RezaShahhosseini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

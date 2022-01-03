@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomGame_V1", "RandomGame_V1\RandomGame_V1.csproj", "{88624F6B-C654-45C5-A01C-97753866978D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88624F6B-C654-45C5-A01C-97753866978D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88624F6B-C654-45C5-A01C-97753866978D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88624F6B-C654-45C5-A01C-97753866978D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88624F6B-C654-45C5-A01C-97753866978D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

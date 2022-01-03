@@ -1,0 +1,16 @@
+F:\dev\MapsaHR\RandomGame_V1\bin\Debug\net5.0\RandomGame_V1.exe
+F:\dev\MapsaHR\RandomGame_V1\bin\Debug\net5.0\RandomGame_V1.deps.json
+F:\dev\MapsaHR\RandomGame_V1\bin\Debug\net5.0\RandomGame_V1.runtimeconfig.json
+F:\dev\MapsaHR\RandomGame_V1\bin\Debug\net5.0\RandomGame_V1.runtimeconfig.dev.json
+F:\dev\MapsaHR\RandomGame_V1\bin\Debug\net5.0\RandomGame_V1.dll
+F:\dev\MapsaHR\RandomGame_V1\bin\Debug\net5.0\ref\RandomGame_V1.dll
+F:\dev\MapsaHR\RandomGame_V1\bin\Debug\net5.0\RandomGame_V1.pdb
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.csproj.AssemblyReference.cache
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.AssemblyInfoInputs.cache
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.AssemblyInfo.cs
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.csproj.CoreCompileInputs.cache
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.dll
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\ref\RandomGame_V1.dll
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.pdb
+F:\dev\MapsaHR\RandomGame_V1\obj\Debug\net5.0\RandomGame_V1.genruntimeconfig.cache
